@@ -30,7 +30,7 @@ Tenho interesse em desenvolvimento web, programação e banco de dados. Gosto de
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="46" height="46" /></a>
 </p>
 
-<sub>Ferramentas que uso ou estudo — sem lista artificial de tecnologias.</sub>
+<sub>Ferramentas que uso ou estudo.</sub>
 
 ## Projetos em destaque
 
