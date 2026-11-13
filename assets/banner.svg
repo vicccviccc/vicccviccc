@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="320" viewBox="0 0 1120 320" role="img" aria-labelledby="title desc">
+  <title id="title">Victor | Estudante de TSI no IFRN</title>
+  <desc id="desc">Banner de perfil em tons escuros com detalhes roxos e azuis e identidade visual inspirada em código.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset=".55" stop-color="#121126"/><stop offset="1" stop-color="#0B1726"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#58A6FF"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop stop-color="#8B5CF6" stop-opacity=".31"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#9EA3C5" stroke-width=".6" stroke-opacity=".095" fill="none"/></pattern>
+    <clipPath id="frame"><rect width="1120" height="320" rx="15"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1120" height="320" fill="url(#bg)"/>
+    <rect width="1120" height="320" fill="url(#grid)"/>
+    <circle cx="916" cy="118" r="295" fill="url(#glow)"/>
+    <path d="M0 0H1120" stroke="url(#accent)" stroke-width="4"/>
+    <path d="M-30 266L282 -46M82 354L410 -46" stroke="#A78BFA" stroke-opacity=".09" stroke-width="2"/>
+    <rect x="50" y="43" width="164" height="29" rx="6" fill="#241E3F" stroke="#564B85" stroke-width="1"/>
+    <circle cx="67" cy="58" r="4" fill="#A78BFA"/>
+    <text x="81" y="62" fill="#D4C6FF" font-size="13" font-weight="600" font-family="Arial, sans-serif" letter-spacing="1">VICCCVICCC</text>
+    <text x="49" y="170" fill="#F5F3FF" font-size="76" font-weight="700" font-family="Arial, sans-serif" letter-spacing="-2">Victor<tspan fill="#A78BFA">.</tspan></text>
+    <text x="52" y="212" fill="#D5CCF2" font-size="23" font-family="Arial, sans-serif">Estudante de Tecnologia em Sistemas para Internet</text>
+    <text x="52" y="251" fill="#94A3B8" font-size="17" font-family="Arial, sans-serif">IFRN  /  Campus Canguaretama</text>
+    <g transform="translate(766 69)">
+      <rect x="0" y="0" width="305" height="174" rx="12" fill="#101827" stroke="#40415E" stroke-width="1.5"/>
+      <path d="M0 37H305" stroke="#303A52"/>
+      <circle cx="22" cy="19" r="5" fill="#FD6F79"/>
+      <circle cx="39" cy="19" r="5" fill="#EABF63"/>
+      <circle cx="56" cy="19" r="5" fill="#5DBA9B"/>
+      <text x="153" y="23" fill="#8E9AB7" font-size="12" text-anchor="middle" font-family="monospace">victor@github: ~</text>
+      <text x="22" y="71" fill="#A78BFA" font-size="15" font-family="monospace">$</text>
+      <text x="42" y="71" fill="#DFE7F6" font-size="15" font-family="monospace">whoami</text>
+      <text x="22" y="102" fill="#8FC6FF" font-size="15" font-family="monospace">student_developer</text>
+      <text x="22" y="137" fill="#A78BFA" font-size="15" font-family="monospace">$</text>
+      <text x="42" y="137" fill="#B3C1DD" font-size="15" font-family="monospace">build · learn · create</text>
+      <rect x="22" y="152" width="8" height="13" rx="1.5" fill="#B9A2FF"/>
+    </g>
+    <rect x="52" y="284" width="1014" height="1" fill="#354158"/>
+    <text x="52" y="307" fill="#8294B6" font-family="monospace" font-size="11">WEB DEVELOPMENT</text>
+    <text x="241" y="307" fill="#8294B6" font-family="monospace" font-size="11">DATABASES</text>
+    <text x="374" y="307" fill="#8294B6" font-family="monospace" font-size="11">LEARNING BY BUILDING</text>
+  </g>
+</svg>
