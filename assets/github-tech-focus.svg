@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="290" viewBox="0 0 640 290" role="img" aria-labelledby="title desc">
+<title id="title">Tecnologias de Victor</title><desc id="desc">HTML, CSS, JavaScript, Java, Python e SQL: tecnologias que Victor usa ou estuda.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151327"/><stop offset="1" stop-color="#101B2B"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#58A6FF"/></linearGradient></defs>
+<rect x="1" y="1" width="638" height="288" rx="18" fill="url(#bg)" stroke="#35334D" stroke-width="2"/>
+<path d="M20 2H620" stroke="url(#line)" stroke-width="3"/>
+<circle cx="34" cy="44" r="5" fill="#58A6FF"/><text x="51" y="49" font-family="Arial, sans-serif" font-size="14" fill="#A9C9FF" font-weight="700" letter-spacing="1.2">TECNOLOGIAS EM FOCO</text>
+<text x="34" y="77" fill="#96A2B9" font-family="Arial, sans-serif" font-size="14">Ferramentas que utilizo e continuo estudando</text>
+<g font-family="Arial, sans-serif" font-size="16" font-weight="600">
+<rect x="32" y="101" width="181" height="60" rx="10" fill="#232138" stroke="#3A3953"/><circle cx="63" cy="131" r="15" fill="#3C2A28"/><text x="63" y="137" text-anchor="middle" fill="#FCA37C" font-size="14">H</text><text x="92" y="137" fill="#E8E7F1">HTML</text>
+<rect x="229" y="101" width="181" height="60" rx="10" fill="#1C273A" stroke="#3A3953"/><circle cx="260" cy="131" r="15" fill="#213D60"/><text x="260" y="137" text-anchor="middle" fill="#84BEFF" font-size="14">C</text><text x="289" y="137" fill="#E8E7F1">CSS</text>
+<rect x="426" y="101" width="181" height="60" rx="10" fill="#29283A" stroke="#3A3953"/><circle cx="457" cy="131" r="15" fill="#4B4828"/><text x="457" y="137" text-anchor="middle" fill="#F5DC73" font-size="14">JS</text><text x="486" y="137" fill="#E8E7F1" font-size="15">JavaScript</text>
+<rect x="32" y="174" width="181" height="60" rx="10" fill="#232138" stroke="#3A3953"/><circle cx="63" cy="204" r="15" fill="#3C2933"/><text x="63" y="210" text-anchor="middle" fill="#FE98AB" font-size="14">J</text><text x="92" y="210" fill="#E8E7F1">Java</text>
+<rect x="229" y="174" width="181" height="60" rx="10" fill="#1C273A" stroke="#3A3953"/><circle cx="260" cy="204" r="15" fill="#243951"/><text x="260" y="210" text-anchor="middle" fill="#9FC5FA" font-size="14">Py</text><text x="289" y="210" fill="#E8E7F1">Python</text>
+<rect x="426" y="174" width="181" height="60" rx="10" fill="#1C302F" stroke="#3A3953"/><circle cx="457" cy="204" r="15" fill="#235147"/><text x="457" y="210" text-anchor="middle" fill="#79DFB4" font-size="14">DB</text><text x="486" y="210" fill="#E8E7F1">SQL</text>
+</g>
+<path d="M32 250H607" stroke="#3A3954"/><text x="34" y="271" fill="#8290AC" font-size="12" font-family="Arial, sans-serif">Aprendendo através de projetos.</text>
+</svg>

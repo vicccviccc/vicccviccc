@@ -55,11 +55,15 @@ Projeto acadêmico de banco de dados com foco na modelagem de um sistema de gest
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicccviccc&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;locale=pt-br" alt="Estatísticas públicas do GitHub de Victor" width="470" />
+  <img src="./assets/github-overview.svg" alt="Visão geral: 8 repositórios públicos e 3 projetos em destaque, em novembro de 2026" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicccviccc&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;locale=pt-br" alt="Linguagens presentes nos repositórios públicos" width="390" />
+  <img src="./assets/github-tech-focus.svg" alt="Tecnologias que utilizo ou estudo: HTML, CSS, JavaScript, Java, Python e SQL" width="600" />
+</p>
+
+<p align="center">
+  <sub>Visão geral registrada em novembro de 2026. Para acompanhar as contribuições e os números mais recentes, <a href="https://github.com/vicccviccc?tab=overview">veja minha atividade no GitHub</a>.</sub>
 </p>
 
 ---
