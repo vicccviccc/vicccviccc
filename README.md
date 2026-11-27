@@ -32,11 +32,12 @@
 </div>
 
 <div align="center">
-  <img src="./assets/projects-retro.svg" width="100%" alt="Meus projetos: IFRN, Barraca do Baiano e drawBD" />
+  <img src="./assets/projects-retro.svg" width="100%" alt="Meus projetos: IFRN, Barraca do Baiano, drawBD e VDownload" />
   <br /><br />
   <a href="https://github.com/vicccviccc/ifrncangVRGP">IFRN / Extensão</a> ·
   <a href="https://github.com/vicccviccc/barracav2">Barraca do Baiano</a> ·
-  <a href="https://github.com/vicccviccc/drawBD">drawBD</a>
+  <a href="https://github.com/vicccviccc/drawBD">drawBD</a> ·
+  <a href="https://github.com/vicccviccc/VDownload">VDownload</a>
   <br /><br />
   <a href="https://github.com/vicccviccc?tab=repositories"><img src="https://img.shields.io/badge/repositorios-b2acd0?style=for-the-badge&amp;logo=github&amp;logoColor=171421" alt="Meus repositórios" /></a>
   <a href="https://github.com/vicccviccc?tab=overview"><img src="https://img.shields.io/badge/atividade-ef739e?style=for-the-badge&amp;logo=github&amp;logoColor=171421" alt="Minha atividade" /></a>
