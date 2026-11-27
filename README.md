@@ -4,17 +4,18 @@
   <img src="./assets/profile-retro.svg" width="100%" alt="Victor Gabriel, estudante de TSI no IFRN Campus Canguaretama" />
 </div>
 
-## O que eu uso para criar
+<h2 align="center">O que eu uso para criar</h2>
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <b>01 — Do código à lógica</b><br />
       <sub>Programação e resolução de problemas.</sub><br /><br />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java" title="Java" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46" height="46" alt="Python" title="Python" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript" title="JavaScript" /><br /><br />
       <sub>Java · Python · JavaScript</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <b>02 — Construindo para a web</b><br />
       <sub>Estrutura e estilo das interfaces.</sub><br /><br />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="46" height="46" alt="HTML5" title="HTML5" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="46" height="46" alt="CSS3" title="CSS3" /><br /><br />
@@ -22,13 +23,13 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" align="center">
       <b>03 — Por trás dos dados</b><br />
       <sub>Modelagem, consultas e banco de dados.</sub><br /><br />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="46" height="46" alt="MySQL" title="MySQL" /><br /><br />
       <sub>SQL · MySQL</sub>
     </td>
-    <td valign="top">
+    <td valign="top" align="center">
       <b>04 — Meu ambiente de trabalho</b><br />
       <sub>Onde escrevo e organizo meus projetos.</sub><br /><br />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="46" height="46" alt="VS Code" title="VS Code" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git" />&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/e9e0f1"><img src="https://cdn.simpleicons.org/github/242033" width="46" height="46" alt="GitHub" title="GitHub" /></picture><br /><br />
@@ -36,6 +37,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 <div align="center">
   <img src="./assets/projects-retro.svg" width="100%" alt="Meus projetos: IFRN, Barraca do Baiano e drawBD" />
