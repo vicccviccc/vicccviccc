@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/anime-banner.gif" width="100%" alt="Anime pixel art em uma janela retrô" />
   <br />
-  <img src="./assets/profile-retro.svg" width="100%" alt="Victor Gabriel, estudante de TSI no IFRN Campus Canguaretama" />
+  <img src="./assets/profile-switch.svg" width="100%" alt="Victor Gabriel, estudante de TSI no IFRN Campus Canguaretama" />
 </div>
 
 <h2 align="center">Tecnologias</h2>
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/projects-retro.svg" width="100%" alt="Meus projetos: IFRN, Barraca do Baiano, drawBD e VDownload" />
+  <img src="./assets/projects-battle.svg" width="100%" alt="Meus projetos: IFRN, Barraca do Baiano, drawBD e VDownload" />
   <br /><br />
   <a href="https://github.com/vicccviccc/ifrncangVRGP">IFRN / Extensão</a> ·
   <a href="https://github.com/vicccviccc/barracav2">Barraca do Baiano</a> ·
